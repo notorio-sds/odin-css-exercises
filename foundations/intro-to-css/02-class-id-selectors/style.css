@@ -1,0 +1,26 @@
+.pink {
+    background-color: pink;
+}
+
+.one,
+.five {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+#two {
+    font-size: 32px;
+    color: blue;
+    font-weight: 700;
+}
+
+.three {
+    font-size: 26px;
+    font-weight: 700;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: 1000;
+    font-size: 32px;
+}
